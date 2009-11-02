@@ -1,0 +1,13 @@
+Quickstart
+
+$ hg clone http://bitbucket.org/sofayam/arby/
+...
+$ hg pull -u # to pull changes and update
+$ hg push # to push changes to this repo
+						
+
+Import existing data?
+
+$ cd /path/to/existing/hg/repo/
+$ hg push http://bitbucket.org/sofayam/arby/
+						
